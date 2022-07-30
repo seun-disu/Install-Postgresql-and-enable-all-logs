@@ -1,5 +1,5 @@
 ---
-- name: psql install start services n 
+- name: psql install and start services
   hosts: all
   become: true
 
